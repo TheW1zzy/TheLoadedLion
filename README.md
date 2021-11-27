@@ -1,7 +1,7 @@
 # TheLoadedLion
 
 Crypto.com first ever PFP NFT Drop.\
-check more @ https://crypto.com/nft/collection/82421cf8e15df0edcaa200af752a344f\
+check more @ https://crypto.com/nft/collection/82421cf8e15df0edcaa200af752a344f
 \
 This repository will contain data about the Lions stats.\
 Have fun and see you on the mars!\
